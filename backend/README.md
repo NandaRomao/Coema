@@ -1,6 +1,6 @@
 # Backend — Coema
 
-**Status:** ainda não iniciado. Esta pasta é um placeholder que reflete a decisão de arquitetura já tomada.
+**Status:** Inicializado. O ambiente Python e a estrutura base do FastAPI foram configurados.
 
 ## Planejado
 
