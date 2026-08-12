@@ -1,7 +1,5 @@
 # Coema
 
-# Coema
-
 > *amanhecer, já é dia* — tupi
 
 Sistema de acompanhamento contínuo para pacientes crônicos autoimunes, usando o Lúpus Eritematoso Sistêmico (LES) como caso-âncora. O objetivo de longo prazo é servir a rede pública de saúde (SUS), mas o projeto ainda não tem vínculo oficial com ela.
