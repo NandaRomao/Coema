@@ -33,6 +33,7 @@ Um sistema de dois lados:
 | 🔴 Vermelho | Desvio relevante | Alerta ao médico de referência |
 
 Documentação completa em [`docs/BRIEFING.md`](docs/BRIEFING.md).
+Consulte também as [**Regras de Negócio**](docs/REGRAS_DE_NEGOCIO.md) para detalhes técnicos de fluxos e restrições do sistema.
 
 ## Princípios norteadores
 
