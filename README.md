@@ -1,8 +1,10 @@
 # Coema
 
+# Coema
+
 > *amanhecer, já é dia* — tupi
 
-Sistema de acompanhamento contínuo para pacientes crônicos autoimunes no SUS, usando o Lúpus Eritematoso Sistêmico (LES) como caso-âncora.
+Sistema de acompanhamento contínuo para pacientes crônicos autoimunes, usando o Lúpus Eritematoso Sistêmico (LES) como caso-âncora. O objetivo de longo prazo é servir a rede pública de saúde (SUS), mas o projeto ainda não tem vínculo oficial com ela.
 
 Projeto submetido ao **Way HUB / Ânima Hub** (Edital Regular 2026/2).
 
@@ -73,4 +75,4 @@ Se tiver interesse, abra uma *issue* neste repositório ou entre em contato dire
 
 ## Contato
 
-**Proponente:** Fernanda Romão —  UNA (Ânima Educação)
+**Proponente:** Fernanda Romão — UNA (Ânima Educação - Way Hub)
