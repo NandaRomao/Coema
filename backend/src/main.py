@@ -9,9 +9,7 @@ app = FastAPI(
 
 # Incluindo as rotas (Controllers)
 app.include_router(triagem_controller.router, prefix="/triagem", tags=["Triagem"])
-
 # Incluindo as rotas histórico clínico , registros - Matheus
-
 app.include_router(historico_clinico_controller.router, prefix="/historico-clinico", tags=["Histórico Clínico"])
 app.include_router(registro_controller.router, prefix="/registro", tags=["Registro"])
 
